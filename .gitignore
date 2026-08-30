@@ -24,3 +24,5 @@ yarn-error.log
 .phpstorm.meta.php
 .php_cs.cache
 .php-cs-fixer.cache
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
